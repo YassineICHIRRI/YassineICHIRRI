@@ -29,9 +29,9 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm an AI egineering Student @ Ensias 
+- :computer: I'm an AI Engineering Student @ Ensias 
 - 🧠 A very curious fella always in a learning journey
-- :bomb: With me be always ready for an explosion of creativity 
+- :bomb: With me, be always ready for an explosion of creativity 
 - :man_technologist: Currently in an internship in YaneCode Digital 
 
 
