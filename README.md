@@ -1,13 +1,14 @@
 <h1 align="left">
  <abc>
   <br> Hey there fellow travelers! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">  <br>
+  </h1>
   <h3 align="left">
  My name is Yassine ICHIRRI, an enthusiastic AI engineering student eaguer to learn and explore the fascinating world of IT and AI.
  </h3>
   <br>
     <img src="https://github.com/YassineICHIRRI/YassineICHIRRI/raw/main/RobotGif.gif" alt="Robot GIF">
  </abc>
-</h1>
+
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
