@@ -33,7 +33,7 @@
 - :computer: I'm an AI Engineering Student @ Ensias 
 - 🧠 A very curious fella always in a learning journey
 - :bomb: With me, be always ready for an explosion of creativity 
-- :man_technologist: Currently in an internship in YaneCode Digital 
+- :man_technologist: Had 2 months internship in YaneCode Digital 
 
 
 <h2 align="left"> Reach out to me 🎯:</h2>
