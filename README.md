@@ -31,10 +31,10 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm an AI Engineering Student @ Ensias 
+- :computer: I am a final year  AI Engineering Student @ Ensias 
 - 🧠 A very curious fella always in a learning journey
 - :bomb: With me, be always ready for an explosion of creativity 
-- :man_technologist: Had 2 months internship at YaneCode Digital 
+- :man_technologist: Had internships in YaneCode digital , Stellantis and 4D software 
 
 
 <h2 align="left"> Reach out to me 🎯:</h2>
