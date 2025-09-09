@@ -3,7 +3,7 @@
   <br> Hey there fellow travelers! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">  <br>
   </h1>
   <h3 align="left">
- My name is Yassine ICHIRRI, an enthusiastic AI engineering student eaguer to learn and explore the fascinating world of IT and AI.
+ My name is Yassine ICHIRRI, an enthusiastic AI engineer eaguer to learn and explore the fascinating world of IT and AI.
  </h3>
   <br>
     <img src="https://github.com/YassineICHIRRI/YassineICHIRRI/raw/main/RobotGif.gif" alt="Robot GIF">
@@ -31,7 +31,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I am a final year  AI Engineering Student @ Ensias 
+- :computer: I am an ENSIAS alumni
 - 🧠 A very curious fella always in a learning journey
 - :bomb: With me, be always ready for an explosion of creativity 
 - :man_technologist: Had internships in YaneCode digital , Stellantis and 4D software 
