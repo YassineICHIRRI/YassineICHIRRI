@@ -3,7 +3,7 @@
   <br> Hey there fellow travelers! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">  <br>
   </h1>
   <h3 align="left">
- My name is Yassine ICHIRRI, an enthusiastic AI engineer eaguer to learn and contribute in the dedvelopement of the fascinating world of AI and Data.
+ My name is Yassine ICHIRRI, an enthusiastic AI engineer eaguer to learn and contribute in the developement of the fascinating world of AI and Data.
  </h3>
   <br>
     <img src="https://github.com/YassineICHIRRI/YassineICHIRRI/raw/main/RobotGif.gif" alt="Robot GIF">
