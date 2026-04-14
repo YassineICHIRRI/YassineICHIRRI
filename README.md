@@ -6,8 +6,12 @@
 </p>
 
 ---
+<div align = center>
+  <img  alt="AI" width="700" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+</div>
 
-<img align="right" alt="AI" width="300" src="https://github.com/YassineICHIRRI/YassineICHIRRI/raw/main/RobotGif.gif"/>
+
+
 
 ### 🧠 About Me
 - 🎓 ENSIAS Graduate  
@@ -44,16 +48,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YassineICHIRRI&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassineICHIRRI&theme=tokyonight" />
-</p>
-
----
-
-### 🧠 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineICHIRRI&layout=compact&theme=tokyonight" />
 </p>
 
 ---
